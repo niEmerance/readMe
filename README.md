@@ -8,10 +8,12 @@
 | /pm     | [user][message]  | sends a private [messaage] for user |
 | /pm     | [user][message]  | sends a private [messaage] for user |
 
+```
 Unordered List
+```
 
 - Emerance
--Jessica
+- Jessica
 
 Ordered List
 
